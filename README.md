@@ -1,0 +1,1 @@
+first assignment from odin project. Hope to learn and upgrade my frontend skills
